@@ -1,6 +1,6 @@
 # PortfolioProjects
 
-BellaBeat Capstone Project <- SQL + Tableau
+BellaBeat Capstone Project <- SQL
 
 Covid-19 Global Data Project <- SQL + Tableau
 
