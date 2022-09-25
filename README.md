@@ -9,3 +9,5 @@ Covid-19 Global Data Project <- SQL + Tableau
 Banks Stock Price Data Project <- Python (Numpy, Pandas, Pandas-datareader, Matplotlib, Seaborn, Plotly)
 
 Movie Industry Correlation Project <- Python (Numpy, Pandas, Matplotlib, Seaborn)
+
+US Real Estate Data Project <- Python (Numpy, Pandas, Matplotlib, Seaborn)
