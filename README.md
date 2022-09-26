@@ -1,5 +1,9 @@
 # PortfolioProjects
 
+Bike Sales Database Excel Dashboard Project <- Microsoft Excel
+
+USA Airport Database Power BI Dashboard Project <- Microsoft Power BI Desktop
+
 BellaBeat Capstone Project <- SQL
 
 Covid-19 Global Data Project <- SQL + Tableau
