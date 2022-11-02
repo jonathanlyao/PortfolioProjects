@@ -112,10 +112,10 @@ WHERE Id = 8378563200
       AND TotalMinutesAsleep = 388 
 	  AND TotalTimeInBed = 402
 
-INSERT INTO CapstoneProject2BellaBeat..sleepDay_merged(Id, SleepDay, TotalSleepRecords, TotalMinutesAsleep, TotalTimeInBed)
-VALUES ('4388161847',	'2016-05-05 00:00:00.000',	'1',	'471',	'495'),
-       ('4702921684',	'2016-05-07 00:00:00.000',	'1',	'520',	'543'),
-	   ('8378563200',	'2016-04-25 00:00:00.000',	'1',	'388',	'402')
+--INSERT INTO CapstoneProject2BellaBeat..sleepDay_merged(Id, SleepDay, TotalSleepRecords, TotalMinutesAsleep, TotalTimeInBed)
+--VALUES ('4388161847',	'2016-05-05 00:00:00.000',	'1',	'471',	'495'),
+       --('4702921684',	'2016-05-07 00:00:00.000',	'1',	'520',	'543'),
+	   --('8378563200',	'2016-04-25 00:00:00.000',	'1',	'388',	'402')
 
 	   -- <Run the query again to check if duplicated rows exits> -- 
 SELECT * 
