@@ -1,6 +1,6 @@
 # PortfolioProjects
 
-Bike Sales Database Excel Dashboard Project <- Microsoft Excel
+Excel Dashboard Design <- Excel (Pivot Table, Interactive Dashboard)
 
 USA Airport Database Power BI Dashboard Project <- Microsoft Power BI Desktop
 
@@ -20,4 +20,4 @@ US Real Estate Data Project <- Python (Numpy, Pandas, Matplotlib, Seaborn)
 
 New York City Air BnB Tableau Dashboard project <- Tableau
 
-Excel Dashboard Design <- Excel (Pivot Table, Interactive Dashboard)
+
