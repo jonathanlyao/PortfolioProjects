@@ -8,6 +8,8 @@ BellaBeat Capstone Project <- SQL + Tableau
 
 Covid-19 Global Data Project <- SQL + Tableau
 
+Hotel Booking Data Project <- SQL + Power Bi
+
 Cyclistic Share Bike Capstone Case Study R + Power BI Project <- R (Tidyverse, lubridate, ggplot2, dplyr, skimr) 
 
 911 Call Data Project : Montgomery County, PA <- Python (Numpy, Pandas, Matplotlib, Seaborn)
